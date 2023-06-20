@@ -1,6 +1,6 @@
 # RentSport
 
-GitHub ini berisi source code dari Aplikasi RentSport dalam rangka memenuhi Tugas Besar Mata Kuliah Rekayasa Perangkat Lunak S1 Informatika Semester 5
+GitHub ini berisi source code dari Aplikasi RentSport dalam rangka memenuhi Tugas Besar Mata Kuliah Aplikasi Berbasis Platform S1 Informatika Semester 6
 Dibangun dengan menggunakan bahasa Kotlin yang mengimplementasikan arsitektur sistem MVVM untuk memisahkan antara kode GUI, logika bisnis, sampai ke logika back-end.
 
 ## MAPS API KEY --IMPORTANT--
@@ -14,5 +14,3 @@ Aplikasi ini dibangun dengan mengimplementasikan library berikut:
 - RoomDB [https://developer.android.com/jetpack/androidx/releases/room?hl=id#kts]
 - MaterialSpinner [https://github.com/jaredrummler/MaterialSpinner]
 - ImagePicker [https://github.com/Dhaval2404/ImagePicker]
-
-Copyright SamkanE 2023
